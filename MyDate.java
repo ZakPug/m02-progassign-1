@@ -1,3 +1,8 @@
+//Zakwan Berlin
+//Created: 11/11/23
+//Last Modified: 11/12/23
+//Description: <|This program is a calendar that displays the date, month, and year.|
+
 import java.util.Date;
 
 public class MyDate {
